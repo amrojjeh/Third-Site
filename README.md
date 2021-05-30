@@ -5,9 +5,9 @@ This little side project of mine, which I'm clearly bound to touch up again soon
 
 Here are all the sites in iteration.
 
-First site: https://amrojjeh.github.io/First-Site
+First site: https://amrojjeh.github.io/First-Site/
 
-Second site: https://amrojjeh.github.io/Second-Site
+Second site: https://amrojjeh.github.io/Second-Site/
 
 Third site (this one): https://amrojjeh.github.io/Third-Site/
 
