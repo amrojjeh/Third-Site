@@ -9,6 +9,6 @@ First site: https://amrojjeh.github.io/First-Site
 
 Second site: https://amrojjeh.github.io/Second-Site
 
-Third site (this one): https://amrojjeh.github.io/Third-Site
+Third site (this one): https://amrojjeh.github.io/Third-Site/
 
 Current one: https://amrojjeh.github.io/
